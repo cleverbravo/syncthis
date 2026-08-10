@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SyncThis/SyncThis.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SyncThis.Sample/SyncThis.Sample.csproj" />
+    <Project Path="tests/SyncThis.SmokeTest/SyncThis.SmokeTest.csproj" />
+  </Folder>
+</Solution>
